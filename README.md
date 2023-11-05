@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/anthony-reis-8ab025223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
  <div>
- <a href="https://www.facebook.com/profile.php?id=100004931553600"></a>
+ <a href="https://www.facebook.com/profile.php?id=100004931553600" target=_"blank"<img src="https://img.freepik.com/vetores-premium/ilustracao-do-icone-de-midia-social-facebook-ilustracao-do-icone-do-facebook-em-vetor_561158-2134.jpg" target=_blank"</a>
  </div>
  <div> <a href="https://www.instagram.com/anthonyreis221/"></a></div>
   
