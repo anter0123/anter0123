@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do anter0123 😁
+## Bem-vindo(a) ao meu repositório !😁
 
  <div>
    <a href="https://github.com/anter0123">
@@ -14,8 +14,11 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para Entrar em contato comigo ! segue as redes abaixo !
  
 <div> 
   <a href="https://www.linkedin.com/in/anthony-reis-8ab025223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/profile.php?id=100004931553600"></a>
+  <a href="https://www.instagram.com/anthonyreis221/"></a>
+  repositório
 </div>
